@@ -24,6 +24,10 @@ DateSense processes only the information that you choose to enter, which may inc
 
 This data exists solely to generate insights for you.
 
+In order to provide account-based functionality, DateSense also processes an email address used for account creation and authentication. This may be a user-provided email address or a private relay address provided by Apple Sign In.
+
+The email address is used solely for account management purposes, is not used for marketing or tracking, and is not shared with third parties.
+
 ---
 
 ## 3. Local-Only Storage
