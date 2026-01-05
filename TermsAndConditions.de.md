@@ -74,7 +74,15 @@ Sie erkennen an, dass:
 
 ---
 
-## 7. Altersanforderungen
+## 7. Benutzerkonten
+
+Für den Zugriff auf bestimmte Funktionen von DateSense kann die Erstellung eines Benutzerkontos erforderlich sein. Sie sind dafür verantwortlich, die Vertraulichkeit Ihrer Zugangsdaten zu wahren sowie korrekte und aktuelle Informationen zu Ihrem Benutzerkonto bereitzustellen.
+
+DateSense verwendet Ihre E-Mail-Adresse ausschließlich zur Erstellung und Authentifizierung des Benutzerkontos. Informationen zur Verarbeitung personenbezogener Daten finden Sie in der Datenschutzerklärung.
+
+---
+
+## 8. Altersanforderungen
 
 DateSense ist nicht für die Nutzung durch Kinder unter 13 Jahren vorgesehen.
 
@@ -82,7 +90,7 @@ Wenn Sie zwischen 13 und 17 Jahre alt sind, bestätigen Sie, dass Sie die App zu
 
 ---
 
-## 8. Abonnements und Zahlungen
+## 9. Abonnements und Zahlungen
 
 DateSense kann den Zugang zu bestimmten Funktionen über kostenpflichtige Abonnements anbieten.
 
@@ -93,7 +101,7 @@ Preise, Laufzeiten, Verlängerungsbedingungen sowie mögliche Testzeiträume wer
 
 ---
 
-## 9. Geistiges Eigentum
+## 10. Geistiges Eigentum
 
 Alle Inhalte, Designelemente, Texte und Funktionen von DateSense sind Eigentum von DateSense, sofern nicht anders angegeben.
 
@@ -101,7 +109,7 @@ Ohne vorherige schriftliche Genehmigung ist es untersagt, Teile der App zu kopie
 
 ---
 
-## 10. Haftungsbeschränkung
+## 11. Haftungsbeschränkung
 
 Soweit gesetzlich zulässig:
 - wird DateSense „wie besehen“ und „wie verfügbar“ bereitgestellt;
@@ -110,7 +118,7 @@ Soweit gesetzlich zulässig:
 
 ---
 
-## 11. Änderungen dieser Bedingungen
+## 12. Änderungen dieser Bedingungen
 
 Diese Nutzungsbedingungen können von Zeit zu Zeit aktualisiert werden.  
 Aktualisierte Versionen werden an dieser Stelle veröffentlicht.
@@ -119,7 +127,7 @@ Die fortgesetzte Nutzung der App gilt als Zustimmung zu den jeweils aktuellen Be
 
 ---
 
-## 12. Kontakt
+## 13. Kontakt
 
 Bei Fragen zu diesen Nutzungsbedingungen kontaktieren Sie uns bitte unter:
 
