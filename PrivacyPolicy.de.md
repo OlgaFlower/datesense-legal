@@ -1,90 +1,111 @@
 # Datenschutzrichtlinie
 
-**Letzte Aktualisierung:** 2026-01-05
+**Zuletzt aktualisiert:** 2026-03-13
 
-> **Hinweis:** Diese Version der Datenschutzrichtlinie ist eine Übersetzung zur besseren Verständlichkeit.  
-> Im Falle von Abweichungen oder Auslegungsunterschieden ist die englische Version maßgebend.
+> **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
+> Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
 
 ---
 
 ## 1. Einleitung
 
-DateSense respektiert Ihre Privatsphäre.  
-Diese Datenschutzrichtlinie erklärt, wie Ihre Daten bei der Nutzung der DateSense-App verarbeitet werden.
+DateSense respektiert Ihre Privatsphäre.
 
-DateSense ist so konzipiert, dass es vollständig auf Ihrem Gerät funktioniert.  
-Wir erheben, übertragen, verkaufen oder teilen keine personenbezogenen Daten mit Dritten.
+Diese Datenschutzerklärung erläutert, welche Daten DateSense verarbeitet, wenn Sie die App nutzen.
 
----
+DateSense erhebt oder übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse. Diese Inhalte verbleiben auf Ihrem Gerät.
 
-## 2. Verarbeitete Daten
-
-DateSense verarbeitet ausschließlich Informationen, die du freiwillig in der App eingibst. Dazu gehören unter anderem:
-
-- persönliche Reflexionen;
-- subjektive Bewertungen von Interaktionen;
-- persönliche Notizen oder Antworten auf In-App-Fragen.
-
-Diese Daten dienen ausschließlich dazu, dir individuelle Einblicke bereitzustellen.
-
-Zur Bereitstellung der kontobasierten Funktionen verarbeitet DateSense außerdem eine E-Mail-Adresse, die für die Registrierung und Authentifizierung verwendet wird. Dabei kann es sich um eine vom Nutzer angegebene E-Mail-Adresse oder um eine von „Mit Apple anmelden“ bereitgestellte private Relay-Adresse handeln.
-
-Die E-Mail-Adresse wird ausschließlich zur Kontoverwaltung verwendet, nicht für Marketing- oder Tracking-Zwecke genutzt und nicht an Dritte weitergegeben.
+Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalität von Abonnements bereitzustellen, verarbeitet DateSense jedoch in begrenztem Umfang Konto-, technische und nutzungsbezogene Daten, wie unten beschrieben.
 
 ---
 
-## 3. Lokale Datenspeicherung
+## 2. Welche Daten wir verarbeiten
 
-Alle Daten werden lokal auf Ihrem Gerät gespeichert.
+DateSense kann die folgenden Datenkategorien verarbeiten:
 
-- Es werden keine Daten an externe Server übertragen.
-- Es wird keine Cloud-Speicherung verwendet.
-- Es sind keine Analyse- oder Tracking-Dienste von Drittanbietern integriert.
+- E-Mail-Adresse oder private Relay-E-Mail-Adresse, die über Sign in with Apple bereitgestellt wird;
+- Authentifizierungsbezogene Daten, die für die Registrierung und Anmeldung erforderlich sind;
+- Diagnosedaten, wie z. B. Absturzberichte;
+- App-Analysedaten, wie z. B. aufgerufene Bildschirme, betätigte Schaltflächen und allgemeine Funktionsnutzung;
+- abonnements- und kaufbezogene Daten, die zur Unterstützung von In-App-Käufen und Abonnements erforderlich sind.
 
-Wenn Sie die App löschen oder die In-App-Funktion zum Löschen der Daten verwenden, werden alle gespeicherten Informationen dauerhaft entfernt.
-
----
-
-## 4. Kontrolle über Ihre Daten
-
-Sie haben die volle Kontrolle über Ihre Daten.
-
-- Sie können Ihre Daten jederzeit innerhalb der App löschen.
-- Sie können den Zugriff mithilfe von Face ID, Touch ID oder einem PIN-Code schützen (falls aktiviert).
-- DateSense speichert keine Sicherungskopien Ihrer Daten.
+DateSense verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
 
 ---
 
-## 5. Dienste von Drittanbietern
+## 3. Wie wir Daten verwenden
 
-DateSense gibt Ihre Daten nicht an Dritte weiter.
+Wir verwenden die oben beschriebenen begrenzten Daten ausschließlich, um:
 
-Systemdienste von Apple (z. B. Face ID oder Touch ID) werden vollständig vom Betriebssystem verwaltet.  
-DateSense hat keinen direkten Zugriff auf biometrische Daten.
+- Ihr Konto zu erstellen und zu verwalten;
+- eine sichere Anmeldung zu ermöglichen;
+- die Stabilität der App zu gewährleisten und Abstürze zu beheben;
+- die allgemeine Nutzung der App zu verstehen und Funktionen zu verbessern;
+- Abonnements und kaufbezogene Funktionen zu unterstützen.
 
----
-
-## 6. Datenschutz von Kindern
-
-DateSense ist nicht für die Nutzung durch Kinder unter 13 Jahren vorgesehen.
-
-Wenn Sie zwischen 13 und 17 Jahre alt sind, sollten Sie die App mit dem Verständnis nutzen, dass sie der Selbstreflexion und persönlichen Einsicht dient und keinen Ersatz für professionelle Unterstützung darstellt.
-
-Wir erfassen wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren.
+Wir verkaufen Ihre personenbezogenen Daten nicht.  
+Wir verwenden Ihre Daten nicht für Werbung Dritter.  
+Wir verwenden Ihre privaten In-App-Inhalte nicht für Marketingzwecke.
 
 ---
 
-## 7. Änderungen dieser Richtlinie
+## 4. Speicherung und Verarbeitung
 
-Diese Datenschutzrichtlinie kann von Zeit zu Zeit aktualisiert werden.  
-Alle Änderungen werden an dieser Stelle veröffentlicht.
+Ihre privaten App-Inhalte, einschließlich Notizen, Reflexionen, Antworten und beziehungsbezogenen Einträgen, werden lokal auf Ihrem Gerät gespeichert.
 
-Die fortgesetzte Nutzung der App gilt als Zustimmung zur jeweils aktuellen Version dieser Richtlinie.
+Begrenzte Konto-, Analyse-, Diagnose- und abonnementsbezogene Daten können von vertrauenswürdigen Dienstleistern ausschließlich zur Unterstützung der App-Funktionalität verarbeitet werden.
 
 ---
 
-## 8. Kontakt
+## 5. Dienste Dritter
 
-Bei Fragen zu dieser Datenschutzrichtlinie kontaktieren Sie uns bitte unter:
+DateSense kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
 
-**Email:** support@datesense.com.de
+- Authentifizierung;
+- Absturzberichte;
+- App-Analysen;
+- Unterstützung von Abonnements und Käufen.
+
+Diese Dienste verarbeiten nur die Daten, die zur Erfüllung ihrer Funktion erforderlich sind.
+
+---
+
+## 6. Datenkontrolle
+
+Sie behalten die Kontrolle über Ihre Daten.
+
+Innerhalb der App haben Sie möglicherweise die Möglichkeit:
+
+- lokal gespeicherte App-Daten auf Ihrem Gerät zu löschen;
+- Ihr Konto zu löschen;
+- sich von Ihrem Konto abzumelden;
+- den Zugriff mit einem PIN-Code zu schützen.
+
+Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto wird dadurch jedoch nicht automatisch gelöscht.
+
+---
+
+## 7. Datenschutz für Kinder
+
+DateSense ist nicht für Kinder unter 13 Jahren bestimmt.
+
+Wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren.
+
+Wenn Sie der Ansicht sind, dass ein Kind unter 13 Jahren personenbezogene Informationen über die App bereitgestellt hat, kontaktieren Sie uns bitte, damit wir den Fall prüfen und entsprechend handeln können.
+
+---
+
+## 8. Änderungen an dieser Erklärung
+
+Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
+
+Änderungen werden an dieser Stelle veröffentlicht. Wenn Sie die App nach einer Aktualisierung weiterhin nutzen, gilt dies als Zustimmung zur überarbeiteten Datenschutzerklärung.
+
+---
+
+## 9. Kontakt
+
+Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte:
+
+E-Mail: support@datesense.com.de
+
