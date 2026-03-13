@@ -98,7 +98,9 @@ This Privacy Policy may be updated from time to time.
 
 Any changes will be published at this location. Continued use of the app after an update means you accept the revised Privacy Policy.
 
-9. Contact
+---
+
+## 9. Contact
 
 If you have questions about this Privacy Policy, please contact:
 
