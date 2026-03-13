@@ -13,7 +13,7 @@ DateSense respektiert Ihre Privatsphäre.
 
 Diese Datenschutzerklärung erläutert, welche Daten DateSense verarbeitet, wenn Sie die App nutzen.
 
-DateSense erhebt oder übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse. Diese Inhalte verbleiben auf Ihrem Gerät.
+DateSense übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse im Rahmen von App-Analysen oder Profiling. Diese Inhalte werden lokal auf Ihrem Gerät gespeichert.
 
 Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalität von Abonnements bereitzustellen, verarbeitet DateSense jedoch in begrenztem Umfang Konto-, technische und nutzungsbezogene Daten, wie unten beschrieben.
 
@@ -81,7 +81,7 @@ Innerhalb der App haben Sie möglicherweise die Möglichkeit:
 - sich von Ihrem Konto abzumelden;
 - den Zugriff mit einem PIN-Code zu schützen.
 
-Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto wird dadurch jedoch nicht automatisch gelöscht.
+Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto oder serverseitig gespeicherte Kontozugangsdaten werden dadurch jedoch nicht automatisch gelöscht.
 
 ---
 
