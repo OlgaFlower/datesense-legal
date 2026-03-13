@@ -1,134 +1,145 @@
 # Nutzungsbedingungen
 
-**Letzte Aktualisierung:** 2026-01-05
+**Zuletzt aktualisiert:** 2026-03-13
 
-> **Hinweis:** Diese Version der Nutzungsbedingungen ist eine Übersetzung zur besseren Verständlichkeit.  
-> Im Falle von Abweichungen oder Auslegungsunterschieden ist die englische Version maßgebend.
-
----
-
-## 1. Zustimmung zu den Bedingungen
-
-Durch die Nutzung der DateSense-App erklären Sie sich mit diesen Nutzungsbedingungen einverstanden.  
-Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie die App bitte nicht.
+> **Hinweis:** Diese Version der Nutzungsbedingungen ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
+> Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
 
 ---
 
-## 2. Zweck der App
+## 1. Einleitung
 
-DateSense ist als **Werkzeug zur Selbstreflexion und Bewusstwerdung** konzipiert.
+Diese Nutzungsbedingungen regeln Ihre Nutzung der DateSense-App und der damit verbundenen Dienste.
 
-Die App hilft Ihnen:
-- zu beobachten, wie Interaktionen auf Sie wirken;
-- Ihren emotionalen und psychologischen Zustand zu reflektieren;
-- Muster auf Grundlage Ihrer eigenen Eingaben zu erkennen.
+Durch das Herunterladen, den Zugriff auf oder die Nutzung von DateSense stimmen Sie diesen Nutzungsbedingungen zu.
 
-DateSense bewertet **keine realen Personen** und erhebt **keinen Anspruch auf objektive oder faktische Aussagen über andere**.
+Wenn Sie diesen Nutzungsbedingungen nicht zustimmen, dürfen Sie die App nicht nutzen.
 
 ---
 
-## 3. Keine professionelle Beratung
+## 2. Nutzungsberechtigung
 
-DateSense ist **keine**:
-- medizinische Dienstleistung;
-- psychologische oder therapeutische Behandlung;
-- Diagnose- oder Behandlungsmethode;
-- Alternative zu professioneller Beratung.
+DateSense ist nicht für Kinder unter 13 Jahren bestimmt.
 
-Alle Inhalte, Einblicke, Indizes und Hinweise dienen ausschließlich **informatorischen und reflektierenden Zwecken** und basieren ausschließlich auf den von Ihnen bereitgestellten Daten.
-
-Wenn Sie sich unsicher, belastet oder gefährdet fühlen, wenden Sie sich bitte an qualifizierte Fachkräfte oder lokale Unterstützungsstellen.
+Durch die Nutzung der App erklären Sie, dass Sie mindestens 13 Jahre alt sind und die App nach den für Sie geltenden Gesetzen rechtmäßig nutzen dürfen.
 
 ---
 
-## 4. Subjektiver Charakter der Inhalte
+## 3. Konto
 
-Alle von DateSense bereitgestellten Einblicke:
-- spiegeln Ihre **subjektiven Wahrnehmungen und Erfahrungen** wider;
-- stellen Interpretationen dar, keine Tatsachen;
-- können sich im Laufe der Zeit mit Ihren Eingaben verändern.
+Ein Konto ist erforderlich, um auf DateSense zuzugreifen und die App zu nutzen.
 
-DateSense trifft keine Aussagen über Charakter, Absichten oder Verhalten anderer Personen.
+Sie müssen sich registrieren oder anmelden, bevor Sie die App verwenden.
 
----
-
-## 5. Sicherheitsorientierte Hinweise
-
-Einige Inhalte der App können auf potenzielle Risiken oder unsichere Dynamiken hinweisen, basierend auf Ihren Eingaben.
-
-Diese Hinweise:
-- dienen der Förderung von Aufmerksamkeit und Selbstschutz;
-- stellen keine Anweisungen, Diagnosen oder Garantien dar;
-- sollten als Denkanstöße und nicht als endgültige Schlussfolgerungen verstanden werden.
-
-Sie sind selbst dafür verantwortlich, wie Sie diese Informationen interpretieren und nutzen.
+Sie sind dafür verantwortlich, die Vertraulichkeit Ihrer Zugangsdaten zu wahren, sowie für alle Aktivitäten, die über Ihr Konto erfolgen.
 
 ---
 
-## 6. Verantwortung der Nutzer:innen
+## 4. Zweck der App
 
-Sie erkennen an, dass:
-- Sie DateSense freiwillig und nach eigenem Ermessen nutzen;
-- alle Entscheidungen oder Handlungen auf Grundlage der App-Inhalte in Ihrer eigenen Verantwortung liegen;
-- DateSense keine konkreten Handlungen vorgibt oder vorschreibt, insbesondere in Bezug auf Beziehungen.
+DateSense wird als Tool zur Selbstreflexion und zur Einsicht in Beziehungsdynamiken bereitgestellt.
 
----
+Die App soll Nutzern dabei helfen, Interaktionsmuster, persönliche Eindrücke und beziehungsbezogene Erfahrungen zu reflektieren.
 
-## 7. Benutzerkonten
+DateSense bietet keine medizinische, psychologische, psychiatrische, therapeutische, rechtliche oder krisenbezogene Beratung.
 
-Für den Zugriff auf bestimmte Funktionen von DateSense kann die Erstellung eines Benutzerkontos erforderlich sein. Sie sind dafür verantwortlich, die Vertraulichkeit Ihrer Zugangsdaten zu wahren sowie korrekte und aktuelle Informationen zu Ihrem Benutzerkonto bereitzustellen.
+DateSense diagnostiziert keine Person und keine Beziehung.
 
-DateSense verwendet Ihre E-Mail-Adresse ausschließlich zur Erstellung und Authentifizierung des Benutzerkontos. Informationen zur Verarbeitung personenbezogener Daten finden Sie in der Datenschutzerklärung.
+Alle in der App angezeigten Bewertungen, Bezeichnungen, Zusammenfassungen oder Erkenntnisse dienen ausschließlich Informationszwecken und der persönlichen Selbstreflexion.
 
 ---
 
-## 8. Altersanforderungen
+## 5. Nutzerinhalte und Verantwortung
 
-DateSense ist nicht für die Nutzung durch Kinder unter 13 Jahren vorgesehen.
+Sie sind allein verantwortlich für die Inhalte, die Sie in die App eingeben, einschließlich Notizen, Antworten, Bewertungen und beziehungsbezogener Informationen.
 
-Wenn Sie zwischen 13 und 17 Jahre alt sind, bestätigen Sie, dass Sie die App zur Selbstreflexion nutzen und verstehen, dass sie **keinen Ersatz für professionelle oder erwachsene Unterstützung darstellt**.
+Sie verpflichten sich, die App nicht zum Hochladen, Speichern oder Übermitteln rechtswidriger, missbräuchlicher, verleumderischer, belästigender, hasserfüllter oder anderweitig schädlicher Inhalte zu verwenden.
 
----
-
-## 9. Abonnements und Zahlungen
-
-DateSense kann den Zugang zu bestimmten Funktionen über kostenpflichtige Abonnements anbieten.
-
-Alle Zahlungen, Abrechnungen, Verlängerungen und Kündigungen werden von Apple über den App Store abgewickelt.  
-DateSense erhebt, speichert oder verarbeitet keine Zahlungsinformationen.
-
-Preise, Laufzeiten, Verlängerungsbedingungen sowie mögliche Testzeiträume werden Ihnen zum Zeitpunkt des Kaufs angezeigt und unterliegen den Richtlinien des App Store.
+Sie sind selbst dafür verantwortlich, wie Sie von der App erzeugte Erkenntnisse interpretieren und nutzen.
 
 ---
 
-## 10. Geistiges Eigentum
+## 6. Abonnements und Käufe
 
-Alle Inhalte, Designelemente, Texte und Funktionen von DateSense sind Eigentum von DateSense, sofern nicht anders angegeben.
+DateSense kann automatisch verlängerbare Abonnements und andere In-App-Käufe anbieten.
 
-Ohne vorherige schriftliche Genehmigung ist es untersagt, Teile der App zu kopieren, zu vervielfältigen, zu verbreiten oder zu verändern.
+Die Zahlung wird bei Bestätigung des Kaufs Ihrem Apple-ID-Konto belastet.
+
+Abonnements verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Abrechnungszeitraums gekündigt werden.
+
+Sie können Ihre Abonnements in den Einstellungen Ihres Apple-Kontos verwalten und kündigen.
+
+Preis-, Abrechnungs- und Verlängerungsbedingungen, die in der App oder auf der App-Store-Seite angezeigt werden, sind Bestandteil Ihrer Kaufbedingungen.
 
 ---
 
-## 11. Haftungsbeschränkung
+## 7. Zulässige Nutzung
 
-Soweit gesetzlich zulässig:
-- wird DateSense „wie besehen“ und „wie verfügbar“ bereitgestellt;
-- werden keine Garantien hinsichtlich Genauigkeit, Vollständigkeit oder Ergebnissen übernommen;
-- haftet DateSense nicht für direkte oder indirekte Schäden, die aus der Nutzung der App entstehen.
+Sie verpflichten sich, Folgendes zu unterlassen:
+
+- DateSense für rechtswidrige Zwecke zu nutzen;
+- die App missbräuchlich zu verwenden oder ihren Betrieb zu stören;
+- zu versuchen, unbefugten Zugriff auf Konten, Systeme oder Daten zu erlangen;
+- die App zu kopieren, zurückzuentwickeln, zu verändern oder anderweitig auszunutzen, soweit dies nicht nach geltendem Recht zulässig ist;
+- die App in einer Weise zu nutzen, die die Rechte anderer verletzt.
+
+---
+
+## 8. Geistiges Eigentum
+
+DateSense sowie seine Inhalte, Funktionen, Markenbestandteile, Designs und Software sind Eigentum von DateSense oder an DateSense lizenziert und durch geltende Gesetze zum Schutz geistigen Eigentums geschützt.
+
+Ihnen wird eine beschränkte, nicht ausschließliche, nicht übertragbare und widerrufliche Lizenz erteilt, die App gemäß diesen Nutzungsbedingungen für persönliche, nicht kommerzielle Zwecke zu nutzen.
+
+---
+
+## 9. Haftungsausschluss
+
+DateSense wird ohne Mängelgewähr und nach Verfügbarkeit bereitgestellt.
+
+Soweit gesetzlich zulässig, übernimmt DateSense keine ausdrücklichen oder stillschweigenden Garantien hinsichtlich der Verfügbarkeit, Genauigkeit, Zuverlässigkeit oder Eignung der App oder ihrer Ergebnisse.
+
+Die App kann auf Grundlage von Nutzereingaben Zusammenfassungen, Bewertungen oder Interpretationen erzeugen. Diese Ergebnisse können unvollständig, subjektiv oder ungenau sein.
+
+---
+
+## 10. Haftungsbeschränkung
+
+Soweit gesetzlich zulässig, haften DateSense und sein Betreiber nicht für indirekte, zufällige, besondere, Folgeschäden oder Strafschadensersatz sowie nicht für Datenverlust, entgangenen Gewinn, Verlust von Goodwill oder Geschäftsmöglichkeiten, die sich aus Ihrer Nutzung der App ergeben oder damit zusammenhängen.
+
+Die Nutzung der App und das Vertrauen auf Inhalte oder von der App erzeugte Ergebnisse erfolgen auf Ihr eigenes Risiko.
+
+---
+
+## 11. Beendigung
+
+Wir können den Zugriff auf DateSense aussetzen oder beenden, wenn Sie gegen diese Nutzungsbedingungen verstoßen oder die App missbrauchen.
+
+Sie können die Nutzung der App jederzeit beenden.
+
+Das Löschen der App führt nicht automatisch zur Löschung Ihres Kontos, sofern Sie nicht zusätzlich die verfügbare Funktion zur Kontolöschung verwenden.
 
 ---
 
 ## 12. Änderungen dieser Bedingungen
 
-Diese Nutzungsbedingungen können von Zeit zu Zeit aktualisiert werden.  
-Aktualisierte Versionen werden an dieser Stelle veröffentlicht.
+Wir können diese Nutzungsbedingungen von Zeit zu Zeit aktualisieren.
 
-Die fortgesetzte Nutzung der App gilt als Zustimmung zu den jeweils aktuellen Bedingungen.
+Änderungen werden an dieser Stelle veröffentlicht. Wenn Sie DateSense nach einer Aktualisierung weiter nutzen, gilt dies als Zustimmung zu den überarbeiteten Nutzungsbedingungen.
 
 ---
 
-## 13. Kontakt
+## 13. Zusätzliche Bedingungen für die Nutzung über den App Store
 
-Bei Fragen zu diesen Nutzungsbedingungen kontaktieren Sie uns bitte unter:
+Wenn Sie über den Apple App Store auf DateSense zugreifen, kann Ihre Nutzung der App zusätzlich den anwendbaren Bedingungen von Apple unterliegen, einschließlich der Standard Licensed Application End User License Agreement (EULA), soweit anwendbar.
 
-**Email:** support@datesense.com.de
+---
+
+## 14. Kontakt
+
+Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte:
+
+E-Mail: support@datesense.com.de
+
+
+
