@@ -56,7 +56,7 @@ Limited account, analytics, diagnostic, and subscription-related data may be pro
 
 ## 5. Third-Party Services
 
-DateSense may use third-party service providers for services such as:
+DateSense may use third-party service providers for purposes such as:
 
 - authentication;
 - crash reporting;
