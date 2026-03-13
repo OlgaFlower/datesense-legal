@@ -10,7 +10,7 @@ DateSense respects your privacy.
 
 This Privacy Policy explains what data DateSense processes when you use the app.
 
-DateSense does not collect or transmit your private self-reflection content, personal notes, answers, or relationship entries to our servers for storage or analysis. That content remains on your device.
+DateSense does not transmit your private self-reflection content, personal notes, answers, or relationship entries to our servers for storage or analysis as part of app analytics or profiling. This content is stored locally on your device.
 
 To provide account access, app reliability, analytics, and subscription functionality, DateSense does process limited account, technical, and usage-related data as described below.
 
@@ -78,7 +78,7 @@ Within the app, you may be able to:
 - log out of your account;
 - protect access using a PIN code.
 
-Deleting the app removes locally stored app content from your device, but it does not automatically delete your account.
+Deleting the app removes locally stored app content from your device, but it does not automatically delete your account or server-side account access data.
 
 ---
 
